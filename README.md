@@ -1,7 +1,10 @@
 # Rule-Based AI Chatbot
 
 A simple Rule-Based AI Chatbot developed using Python. The chatbot interacts with users by recognizing predefined keywords and patterns and providing relevant responses.
-
+<blockquote>
+  🏢 <strong>Internship Project:</strong> This project was developed during my internship at
+  <a href="https://decodelabs.org/" target="_blank">Decode Labs</a>.
+</blockquote>
 ## Features
 - Interactive command-line interface
 - Predefined responses for common questions
